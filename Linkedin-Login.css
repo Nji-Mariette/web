@@ -1,0 +1,157 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    text-align: center;
+    background-color: white;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+.Header{
+    margin-left: 430px;
+    text-align: justify;
+    
+}
+
+.link{
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #0077b5;
+    font-family: Arial;
+}
+span{
+    color: white;
+    background-color: #0077b5;
+    padding: 1px;
+    border-radius: 4px;
+    margin-left: 2px;
+}
+.sign{
+    color: black;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+.update{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-bottom: 24px;
+
+}
+.email input[type=email]{
+    
+    margin-right: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 230px;
+    border-width: thin;
+    border-color: dimgrey;
+    background-color: white;
+}
+.pass input[type=password]{
+    margin-right: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 230px;
+    border-width: thin;
+    border-color: dimgray;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.FP a{
+    margin-right: 387px;
+    color: #0077b5;
+    text-decoration-line: none;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.FP a:hover{
+    text-decoration: underline;
+}
+.Signin input[type=submit]{
+    margin-right: 250px;
+    padding: 10px;
+    border-radius: 19px;
+    width: 260px;
+    border-width: thin;
+    border-color: black;
+    margin-bottom: 4px;
+    color: white;
+    background-color: #0077b5;
+    text-align: center;
+    border-color: #0077b5;
+    border-width: thin;
+    cursor: pointer;
+}
+.or{
+    margin-right: 250px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: dimgrey;
+
+}
+.apple input[type=submit]{
+    margin-right: 250px;
+    padding: 10px;
+    border-radius: 19px;
+    width: 260px;
+    border-width: thin;
+    border-color: black;
+    margin-bottom: 10px;
+    margin-top: 4px;
+    text-align: center;
+    color: dimgrey;
+    cursor: pointer;
+    border-color: dimgrey;
+    background-color: white;
+    margin-bottom: 27px;
+    background-image: url(Apple.png);
+    background-repeat: no-repeat;
+    background-size: 24px;
+    background-position: 48px 2px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.new{
+    margin-right: 250px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+.new a{
+    color: #0077b5;
+    text-decoration-line: none;
+    margin-left: 6px;
+}
+.new a:hover{
+    text-decoration-line: underline;
+
+}
+.hrtable{
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.hr1{
+    display: flex;
+    float: left;
+    margin-right: 4px;
+    margin-left: 6px;
+}
+.hr2{
+    display: flex;
+    float: right;
+    margin-right: 250px;
+    margin-left: 4px;
+}
+.Form{
+    margin-left: auto;
+    margin-right: auto;
+}
